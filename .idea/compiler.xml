@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer_order" />
+        <module name="provider_user" />
+        <module name="consumer_order_ribbon" />
+        <module name="eureka" />
+        <module name="consumer_hystrix_dashboard" />
+        <module name="consumer_order_hystrix" />
+        <module name="apigetway_zuul" />
+        <module name="consumer_order_feign" />
+        <module name="consumer_hystrix_turbine" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer_order (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="apigetway_zuul" options="-parameters" />
+      <module name="consumer_hystrix_dashboard" options="-parameters" />
+      <module name="consumer_hystrix_turbine" options="-parameters" />
+      <module name="consumer_order" options="-parameters" />
+      <module name="consumer_order (1)" options="-parameters" />
+      <module name="consumer_order_feign" options="-parameters" />
+      <module name="consumer_order_hystrix" options="-parameters" />
+      <module name="consumer_order_ribbon" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="provider_user" options="-parameters" />
+    </option>
+  </component>
+</project>

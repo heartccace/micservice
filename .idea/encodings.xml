@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apigetway_zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer_hystrix_dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer_hystrix_turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer_order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer_order _feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer_order_hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer_order_ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider_user" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+server:
+  port: 6900 #程序启动后的端口
+spring:
+  application:
+    name: provider-user #应用名称
+eureka:
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.cloud.client.ipAddress}:${server.port}
+  client:
+    service-url:
+      defaultZone: http://user:123@localhost:9900/eureka

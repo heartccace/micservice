@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a1c0232-fb48-464d-889d-f3cd04da31ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order _feign/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order _feign/target/classes/com/mic/configuration/ProviderConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order _feign/target/classes/com/mic/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order _feign/target/classes/com/mic/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order _feign/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order/target/classes/com/mic/ConsumerApplicationBootstrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order/target/classes/com/mic/configuration/ProviderConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order/target/classes/com/mic/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order/target/classes/com/mic/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/ConsumerApplicationBootstrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/annotation/ExcludeConponentScan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/configuration/ProviderConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/configuration/RibbonConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/target/classes/com/mic/EurekaBootstrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/target/classes/com/mic/config/WebSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider_user/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider_user/target/classes/com/mic/ProviderUserBootstrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider_user/target/classes/com/mic/config/ProviderConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider_user/target/classes/com/mic/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider_user/target/classes/com/mic/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider_user/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mic/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q2xVRjhF0BJqSPUUXAII4nrO00" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apigetway_zuul/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea_workspace\micservice\apigetway_zuul\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea_workspace\micservice\provider_user\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpringZuulApplication">
+    <configuration name="SpringZuulApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mic.SpringZuulApplication" />
+      <module name="apigetway_zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer_order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mic.ConsumerApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerFeignApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer_order_feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mic.ConsumerFeignApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerHystrixApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="consumer_order_hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mic.ConsumerHystrixApplicationBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mic.EurekaBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer_hystrix_dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mic.HystrixDashboardApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixTurbineApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer_hystrix_turbine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mic.HystrixTurbineApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderUserBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="provider_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mic.ProviderUserBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="apigetway_zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mic.SpringZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringZuulApplication" />
+      <item itemvalue="Spring Boot.ConsumerHystrixApplicationBootstrap" />
+      <item itemvalue="Spring Boot.HystrixDashboardApplicationBootstrap" />
+      <item itemvalue="Spring Boot.ConsumerFeignApplicationBootstrap" />
+      <item itemvalue="Spring Boot.SpringZuulApplication" />
+      <item itemvalue="Spring Boot.ConsumerApplicationBootstrap" />
+      <item itemvalue="Spring Boot.EurekaBootstrap" />
+      <item itemvalue="Spring Boot.ProviderUserBootstrap" />
+      <item itemvalue="Spring Boot.HystrixTurbineApplicationBootstrap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringZuulApplication" />
+        <item itemvalue="Spring Boot.ProviderUserBootstrap" />
+        <item itemvalue="Spring Boot.EurekaBootstrap" />
+        <item itemvalue="Spring Boot.HystrixTurbineApplicationBootstrap" />
+        <item itemvalue="Spring Boot.ConsumerApplicationBootstrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a1c0232-fb48-464d-889d-f3cd04da31ae" name="Default Changelist" comment="" />
+      <created>1566982515853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566982515853</updated>
+      <workItem from="1566982522920" duration="992000" />
+      <workItem from="1567139963085" duration="17448000" />
+      <workItem from="1567223186169" duration="2180000" />
+      <workItem from="1567225476226" duration="917000" />
+      <workItem from="1567226615468" duration="247000" />
+      <workItem from="1567226915153" duration="12616000" />
+      <workItem from="1567388588608" duration="9093000" />
+      <workItem from="1567479143479" duration="3803000" />
+      <workItem from="1567658068817" duration="3927000" />
+      <workItem from="1567667810799" duration="5036000" />
+      <workItem from="1567748221420" duration="3699000" />
+      <workItem from="1567922614443" duration="10558000" />
+      <workItem from="1567996963252" duration="5845000" />
+      <workItem from="1568170210124" duration="917000" />
+      <workItem from="1587708188397" duration="2028000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.2.RELEASE/spring-cloud-netflix-ribbon-2.1.2.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonClient.class</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.2.RELEASE/spring-cloud-openfeign-core-2.1.2.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.2.RELEASE/spring-cloud-openfeign-core-2.1.2.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClientsConfiguration.class</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

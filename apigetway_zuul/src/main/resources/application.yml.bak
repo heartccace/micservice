@@ -1,0 +1,20 @@
+server:
+  port: 8904
+  context-path: /zuul
+eureka:
+  client:
+    service-url:
+      defaultZone: http://user:123@localhost:9900/eureka
+  instance:
+    prefer-ip-address: true
+spring:
+  security:
+    user:
+      name: user
+      password: 123
+  application:
+    name: apigetwaw-zuul
+zuul:
+  routes:
+    provider-user: /abc/**   #为provider-user配置访问其他访问方式  http://192.168.3.103:8904/abc/feign/1
+  #ignored-services: zuul会自动代理eureka上的所有服务，采用此方法可以取消该服务的代理

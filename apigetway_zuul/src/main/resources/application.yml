@@ -1,0 +1,35 @@
+server:
+  port: 8904
+  #context-path: /zuul
+eureka:
+  client:
+    service-url:
+      defaultZone: http://user:123@localhost:9900/eureka
+  instance:
+    prefer-ip-address: true
+    health-check-url-path:
+spring:
+  security:
+    user:
+      name: user
+      password: 123
+  application:
+    name: apigetwaw-zuul
+zuul:
+  routes:
+    abcd: #名字随便写，保证唯一
+      path: /abc/**
+      serviceId: provider-user #可以将serviceId换成url但是熔断、负载均衡失效
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+ribbon:
+  eureka:
+    enabled: false #禁用负载均衡
+provider-user:   #手动指定负载均衡
+  ribbon:
+    listOfServers: http://192.168.3.100:6900,http://192.168.3.100:6901
