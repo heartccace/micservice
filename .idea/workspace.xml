@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a1c0232-fb48-464d-889d-f3cd04da31ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order _feign/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order _feign/target/classes/com/mic/configuration/ProviderConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order _feign/target/classes/com/mic/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order _feign/target/classes/com/mic/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order _feign/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order/target/classes/com/mic/ConsumerApplicationBootstrap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order/target/classes/com/mic/configuration/ProviderConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order/target/classes/com/mic/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order/target/classes/com/mic/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/ConsumerApplicationBootstrap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/annotation/ExcludeConponentScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/configuration/ProviderConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/configuration/RibbonConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/classes/com/mic/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer_order_ribbon/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/classes/com/mic/EurekaBootstrap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/classes/com/mic/config/WebSecurityConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider_user/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider_user/target/classes/com/mic/ProviderUserBootstrap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider_user/target/classes/com/mic/config/ProviderConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider_user/target/classes/com/mic/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider_user/target/classes/com/mic/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider_user/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mic/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mic/AppTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="4a1c0232-fb48-464d-889d-f3cd04da31ae" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,6 +221,7 @@
       <workItem from="1567996963252" duration="5845000" />
       <workItem from="1568170210124" duration="917000" />
       <workItem from="1587708188397" duration="2028000" />
+      <workItem from="1589893111333" duration="81000" />
     </task>
     <servers />
   </component>

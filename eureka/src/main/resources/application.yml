@@ -3,8 +3,8 @@ server:
 eureka:   # eureka高可用方式，启动多个eureka服务，服务之间采用相互注册的方式 实现服务注册与发现
   client:
     register-with-eureka: false #自我注册
-    fetch-registry: false
-    service-url:
+    fetch-registry: false   #是否从eureka中获取注册信息
+    service-url: #暴露给eureka client的请求地址
       defaultZone: http://user:123@localhost:9900/eureka
       #defaultZone: http://localhost:9900/eureka
 spring:
