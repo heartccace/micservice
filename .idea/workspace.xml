@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a1c0232-fb48-464d-889d-f3cd04da31ae" name="Default Changelist" comment="" />
+    <list default="true" id="4a1c0232-fb48-464d-889d-f3cd04da31ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_order/src/main/java/com/mic/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer_order/src/main/java/com/mic/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider_user/src/main/java/com/mic/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider_user/src/main/java/com/mic/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider_user/src/main/java/com/mic/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider_user/src/main/java/com/mic/entity/User.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/apigetway_zuul/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -222,6 +227,7 @@
       <workItem from="1568170210124" duration="917000" />
       <workItem from="1587708188397" duration="2028000" />
       <workItem from="1589893111333" duration="81000" />
+      <workItem from="1628081825456" duration="961000" />
     </task>
     <servers />
   </component>

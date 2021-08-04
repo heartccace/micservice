@@ -1,5 +1,6 @@
 package com.mic.controller;
 
+
 import com.mic.entity.User;
 import com.netflix.appinfo.InstanceInfo;
 import com.netflix.discovery.EurekaClient;

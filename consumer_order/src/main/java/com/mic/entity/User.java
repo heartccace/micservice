@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * @author liushuang
- * @create 2019-08-30 13:35
+ * @create 2019-08-30 13:18
  */
 public class User {
     private String name;
@@ -44,4 +44,14 @@ public class User {
         this.data = data;
     }
 
+    @Override
+    public String toString() {
+        return "User{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", id=" + id +
+                ", data=" + data +
+                '}';
+    }
 }
+
